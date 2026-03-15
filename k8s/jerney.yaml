@@ -10,6 +10,7 @@ metadata:
   name: jerney
   labels:
     app.kubernetes.io/part-of: jerney
+    
 
 ---
 # ---- Database Secret ----
